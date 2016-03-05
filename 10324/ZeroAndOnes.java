@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 /**
  * Created by Ge on 15/10/21.
+ *
+ * Question url:https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1265
  */
 public class ZeroAndOne {
     public static void main (String[]args){
